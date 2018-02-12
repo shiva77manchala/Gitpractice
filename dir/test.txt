@@ -1,1 +1,2 @@
 erra mashesh linux admin
+shiva did create ubuntu/trusty64
